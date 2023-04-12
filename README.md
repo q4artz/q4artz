@@ -14,4 +14,4 @@
 <h1 align="center">Favs</h1>
 
 [![異次元の葬禮](https://img.youtube.com/vi/JWuuaYE0UXo/0.jpg)](https://www.youtube.com/watch?v=JWuuaYE0UXo)
-[![3D男孩想要愛! !%♡](https://img.youtube.com/vi/rleJZSBKK1w/0.jpg)](https://www.youtube.com/watch?v=rleJZSBKK1w)
+[![3D男孩想要愛! !%♡](https://img.youtube.com/vi/HB4cQgVby-8/0.jpg)](https://www.youtube.com/watch?v=HB4cQgVby-8)
