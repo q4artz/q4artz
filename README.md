@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=q4artz&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="q4artz" /></p>
 
-<h1 align="center">Favourite songs!</h1>
+<h1 align="center">Favs</h1>
 
 [![異次元の葬禮](https://img.youtube.com/vi/JWuuaYE0UXo/0.jpg)](https://www.youtube.com/watch?v=JWuuaYE0UXo)
 [![3D男孩想要愛! !%♡](https://img.youtube.com/vi/HB4cQgVby-8/0.jpg)](https://www.youtube.com/watch?v=HB4cQgVby-8)
