@@ -1,4 +1,4 @@
-<h1 align="center">hi, I love Active Directory and Android</h1>
+<h1 align="center">hi</h1>
 
 <p align="left">
 
